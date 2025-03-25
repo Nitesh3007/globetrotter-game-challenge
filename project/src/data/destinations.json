@@ -1,0 +1,289 @@
+{
+  "destinations": [
+    {
+      "city": "Paris",
+      "country": "France",
+      "clues": [
+        "This city is home to a famous tower that sparkles every night.",
+        "Known as the 'City of Love' and a hub for fashion and art.",
+        "Home to the world's most visited museum, housing the Mona Lisa."
+      ],
+      "fun_fact": [
+        "The Eiffel Tower was supposed to be dismantled after 20 years but was saved because it was useful for radio transmissions!",
+        "Paris has only one stop sign in the entire city—most intersections rely on priority-to-the-right rules.",
+        "There's a hidden apartment at the top of the Eiffel Tower where Gustave Eiffel used to entertain guests."
+      ],
+      "trivia": [
+        "This city is famous for its croissants and macarons. Bon appétit!",
+        "Paris was originally a Roman city called Lutetia.",
+        "The Louvre was originally built as a fortress in the 12th century."
+      ]
+    },
+    {
+      "city": "Tokyo",
+      "country": "Japan",
+      "clues": [
+        "This city has the busiest pedestrian crossing in the world.",
+        "You can visit an entire district dedicated to anime, manga, and gaming.",
+        "Home to the world's largest fish market."
+      ],
+      "fun_fact": [
+        "Tokyo was originally a small fishing village called Edo before becoming the bustling capital it is today!",
+        "More than 14 million people live in Tokyo, making it one of the most populous cities in the world.",
+        "The city's subway system is so punctual that delays of over one minute require a written apology."
+      ],
+      "trivia": [
+        "The city has over 160,000 restaurants, more than any other city in the world.",
+        "Tokyo's subway system is so efficient that train delays of just a few minutes come with formal apologies.",
+        "There are more vending machines in Tokyo than in any other city in the world."
+      ]
+    },
+    {
+      "city": "Venice",
+      "country": "Italy",
+      "clues": [
+        "A city built on water with no roads, only canals.",
+        "Famous for its carnival masks and glass-making.",
+        "Home to gondolas and water taxis as primary transportation."
+      ],
+      "fun_fact": [
+        "The city is slowly sinking at a rate of 1-2 millimeters per year.",
+        "There are 417 bridges connecting the city's 118 islands.",
+        "The city's famous carnival began in 1162."
+      ],
+      "trivia": [
+        "It's illegal to feed pigeons in St. Mark's Square.",
+        "The city has over 150 canals and 400 gondoliers.",
+        "Venice's population has decreased from 120,000 to 60,000 in the last 50 years."
+      ]
+    },
+    {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "clues": [
+        "The only city in the world that spans two continents.",
+        "Once the capital of three great empires: Roman, Byzantine, and Ottoman.",
+        "Home to a famous bazaar with over 4,000 shops."
+      ],
+      "fun_fact": [
+        "The Grand Bazaar is one of the world's oldest and largest covered markets.",
+        "The city was originally named Constantinople.",
+        "The Basilica Cistern contains two Medusa heads used as column bases."
+      ],
+      "trivia": [
+        "The Hagia Sophia has served as both a church and a mosque.",
+        "The Bosphorus Strait divides the European and Asian sides of the city.",
+        "Tulips originated in Istanbul before becoming popular in the Netherlands."
+      ]
+    },
+    {
+      "city": "Kyoto",
+      "country": "Japan",
+      "clues": [
+        "Former imperial capital known for its traditional gardens.",
+        "Home to over 1,600 Buddhist temples and 400 Shinto shrines.",
+        "Famous for its historic geisha district."
+      ],
+      "fun_fact": [
+        "The city was spared from atomic bombing during WWII due to its cultural significance.",
+        "The Golden Pavilion is covered in real gold leaf.",
+        "Some of the city's temples are over 1,200 years old."
+      ],
+      "trivia": [
+        "The city served as Japan's capital for over 1,000 years.",
+        "Nintendo was founded here in 1889 as a playing card company.",
+        "The city has preserved many of its wooden buildings from medieval times."
+      ]
+    },
+    {
+      "city": "Marrakech",
+      "country": "Morocco",
+      "clues": [
+        "Known as the 'Red City' due to its buildings' color.",
+        "Famous for its maze-like medieval medina.",
+        "Home to the largest traditional market (souk) in Morocco."
+      ],
+      "fun_fact": [
+        "The medina walls were built in the 12th century and are still standing.",
+        "The main square transforms into an open-air restaurant at night.",
+        "The city's gardens were created by the same designer as Paris's Majorelle Garden."
+      ],
+      "trivia": [
+        "The city has been nicknamed the 'Paris of the Sahara'.",
+        "All buildings must be painted in salmon-pink.",
+        "The medina is a UNESCO World Heritage site."
+      ]
+    },
+    {
+      "city": "Cusco",
+      "country": "Peru",
+      "clues": [
+        "Ancient capital of the Inca Empire.",
+        "Gateway to Machu Picchu.",
+        "City layout is said to be in the shape of a puma."
+      ],
+      "fun_fact": [
+        "The city's stone walls were built with such precision that no mortar was needed.",
+        "Many colonial buildings were built on top of Inca foundations.",
+        "The city sits at an altitude of 3,399 meters above sea level."
+      ],
+      "trivia": [
+        "The name means 'navel of the world' in Quechua.",
+        "The city was the center of the Inca Empire until the Spanish conquest.",
+        "Local restaurants serve traditional guinea pig dishes."
+      ]
+    },
+    {
+      "city": "Saint Petersburg",
+      "country": "Russia",
+      "clues": [
+        "City of canals and bridges often called 'Venice of the North'.",
+        "Home to the world's largest art museum.",
+        "Famous for its 'White Nights' during summer."
+      ],
+      "fun_fact": [
+        "The city was built on swampland by Peter the Great.",
+        "The Hermitage Museum has so many exhibits it would take 11 years to see them all.",
+        "The city changed its name three times in the 20th century."
+      ],
+      "trivia": [
+        "The city has over 800 bridges.",
+        "During summer, the sun never fully sets for about 80 days.",
+        "The Metro stations are some of the deepest in the world."
+      ]
+    },
+    {
+      "city": "Petra",
+      "country": "Jordan",
+      "clues": [
+        "Ancient city carved into rose-colored rock.",
+        "Famous treasury building featured in Indiana Jones.",
+        "Hidden city rediscovered in 1812."
+      ],
+      "fun_fact": [
+        "The city was lost to the Western world for hundreds of years.",
+        "The Treasury is actually a tomb for an important king.",
+        "Only 15% of the ancient city has been uncovered."
+      ],
+      "trivia": [
+        "The city was named one of the New Seven Wonders of the World.",
+        "The name means 'rock' in Greek.",
+        "The site contains over 800 monuments."
+      ]
+    },
+    {
+      "city": "Havana",
+      "country": "Cuba",
+      "clues": [
+        "Known for its vintage American cars and colorful buildings.",
+        "Capital city with a famous seafront promenade.",
+        "Home to the world's largest collection of Spanish colonial architecture."
+      ],
+      "fun_fact": [
+        "Many of the classic cars are over 60 years old and still running.",
+        "The city's historic center is a UNESCO World Heritage site.",
+        "The National Capitol building is slightly taller than the US Capitol."
+      ],
+      "trivia": [
+        "The city was founded by the Spanish in the 16th century.",
+        "Ernest Hemingway wrote 'The Old Man and the Sea' while living here.",
+        "The Malecón seawall is over 8 kilometers long."
+      ]
+    },
+    {
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "clues": [
+        "Ancient city surrounded by a moat and walls.",
+        "Known as the 'Rose of the North'.",
+        "Famous for its hundreds of temples and night markets."
+      ],
+      "fun_fact": [
+        "The city walls form a perfect square.",
+        "Some of the temples are over 700 years old.",
+        "Home to the world's largest night bazaar."
+      ],
+      "trivia": [
+        "The city was founded in 1296.",
+        "There are over 300 temples in the city.",
+        "It hosts the world's largest Songkran (water festival) celebration."
+      ]
+    },
+    {
+      "city": "Cape Town",
+      "country": "South Africa",
+      "clues": [
+        "City beneath a famous flat-topped mountain.",
+        "Home to a prison island where Nelson Mandela was held.",
+        "Known for its penguin-populated beaches."
+      ],
+      "fun_fact": [
+        "Table Mountain has over 2,200 species of plants found nowhere else on Earth.",
+        "The city is home to the world's largest individually timed cycle race.",
+        "It's one of the world's most biodiverse cities."
+      ],
+      "trivia": [
+        "The city was founded as a supply station for ships.",
+        "It's the oldest city in South Africa.",
+        "The Cape of Good Hope is not the southernmost point of Africa."
+      ]
+    },
+    {
+      "city": "Varanasi",
+      "country": "India",
+      "clues": [
+        "One of the world's oldest continuously inhabited cities.",
+        "Sacred city on the banks of the Ganges River.",
+        "Known for its spiritual ghats and morning ceremonies."
+      ],
+      "fun_fact": [
+        "The city is over 3,000 years old.",
+        "Mark Twain once said it's 'older than history, older than tradition, older even than legend'.",
+        "There are over 87 ghats along the river."
+      ],
+      "trivia": [
+        "The city is sacred to both Hindus and Buddhists.",
+        "It's known as the spiritual capital of India.",
+        "The city produces some of the finest silk sarees in the world."
+      ]
+    },
+    {
+      "city": "Edinburgh",
+      "country": "Scotland",
+      "clues": [
+        "City built on seven hills with a castle on a volcanic rock.",
+        "Home to the world's largest arts festival.",
+        "Known for its medieval and Georgian architecture."
+      ],
+      "fun_fact": [
+        "The city inspired J.K. Rowling's Harry Potter series.",
+        "There's a whole hidden underground city beneath the streets.",
+        "The castle is built on an extinct volcano."
+      ],
+      "trivia": [
+        "The Royal Mile is actually 1.12 miles long.",
+        "The city has more listed buildings than any other city in the world.",
+        "It was the first city in the world to have its own fire brigade."
+      ]
+    },
+    {
+      "city": "Cartagena",
+      "country": "Colombia",
+      "clues": [
+        "Colorful colonial city surrounded by historic walls.",
+        "Known for its Caribbean fortress and pirate history.",
+        "UNESCO World Heritage site with vibrant street art."
+      ],
+      "fun_fact": [
+        "The city walls took 200 years to complete.",
+        "It was one of the first sanctuaries of freed African slaves in the Americas.",
+        "The fortress was never captured despite numerous attempts."
+      ],
+      "trivia": [
+        "Gabriel García Márquez based many of his stories here.",
+        "The walls are up to 20 meters thick in some places.",
+        "The city was founded in 1533."
+      ]
+    }
+  ]
+}
